@@ -22,5 +22,3 @@ This project provisions an AWS infrastructure using Terraform. It includes setti
 ### 🧹 **Cleanup**
 Use `terraform destroy` to remove all resources after completing the project.
 
-For further assistance, feel free to  😊
-```
